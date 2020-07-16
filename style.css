@@ -4,4 +4,11 @@
     font-weight: bold;
     background-color: transparent;
     border: none;
+    padding: 4px 5px;
+    transition: 100ms;
+}
+
+.twoTimesButton:active {
+    background-color: gainsboro;
+    border-radius: 100%;
 }
