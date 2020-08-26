@@ -34,5 +34,5 @@ A extensão tem o objetivo de aumentar a velocidade dos áudios do Whatsapp Web
 
 ---
 
-Feito com 💜 por Luiz Fernando :wave: [Linkedin](https://www.linkedin.com/in/luizfernandoo/) & [Twitter](https://www.twitter.com/lfnandoo/)
+Feito com 💜 por Luiz Fernando :wave: [Linkedin](https://www.linkedin.com/in/luizfernandoo/)
 
